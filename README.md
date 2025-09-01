@@ -62,9 +62,10 @@
 ---
 
 ## 🚀 Featured Projects  
-🔹 [**OncoDeepMind**](https://github.com/yourrepo) — Deep learning cancer drug efficacy predictor  
-🔹 [**Paprly**](https://github.com/yourrepo) — Research autopilot for papers & summarization
-🔹 [**Nuvy**](https://github.com/yourrepo) — AI-powered fitness & nutrition assistant  
+🔹 [**Natural Planning Research**](https://github.com/rikhil-amonkar/calendar-planning) — Research on planning tasks with LLMs  
+🔹 [**OncoDeepMind**](https://github.com/rikhil-amonkar/OncoDeepMind-CancerDetectionCNN) — Deep learning cancer drug efficacy predictor  
+🔹 [**Paprly**](https://github.com/rikhil-amonkar/Paprly) — Research autopilot for papers & summarization
+🔹 [**Nuvy**](https://github.com/rikhil-amonkar/Nuvy-AIWorkoutApp) — AI-powered fitness & nutrition assistant  
 
 ---
 

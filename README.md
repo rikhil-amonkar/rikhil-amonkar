@@ -2,7 +2,7 @@
 
 🚀 **Computer Science @ Drexel University** (AI/ML concentration, Data Science minor)  
 📖 **Lead Research Assistant** — NLP & LLM Planning (submitted first-author EMNLP 2025 paper)  
-🎯 Incoming **AI Co-op @ Lockheed Martin** (Fall/Winter 2025–26)  
+🎯 **Incoming AI Co-op @ Lockheed Martin** (Fall/Winter 2025–26)  
 💡 **Project Builder** — OncoDeepMind (cancer drug predictor), Paprly (research autopilot), Nuvy (AI fitness)
 
 ---
@@ -63,7 +63,7 @@
 
 ## 🚀 Featured Projects  
 🔹 [**OncoDeepMind**](https://github.com/yourrepo) — Deep learning cancer drug efficacy predictor  
-🔹 [**Paprly**](https://github.com/yourrepo) — Research autopilot for papers & summarization 
+🔹 [**Paprly**](https://github.com/yourrepo) — Research autopilot for papers & summarization
 🔹 [**Nuvy**](https://github.com/yourrepo) — AI-powered fitness & nutrition assistant  
 
 ---

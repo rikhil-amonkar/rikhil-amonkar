@@ -52,7 +52,7 @@
 - 🔹 **[PyTorch LayerNorm C++ Extension](https://github.com/rikhil-amonkar/pytorch-cpp-layernorm-accelerator)** — High-performance C++ operator with Pybind11 and manual autograd kernels.
 - 🔹 **[LLM Planning Research](https://github.com/rikhil-amonkar/llm-csp)** — Evaluation framework for SOTA LLMs (DeepSeek-R1, GPT-5) against formal verifiers (ICLR 2026).
 - 🔹 **[OncoDeepMind](https://github.com/rikhil-amonkar/oncodeepmind)** — Cancer drug response predictor using genomic data and FastAPI (89% test accuracy).
-- 🔹 **[AutoPilot OS](https://github.com/rikhil-amonkar/autopilot-os)** — Autonomous email and research agent using LangGraph state machines.
+- 🔹 **[DragonFlow](https://github.com/rikhil-amonkar/dragonflow)** — Full-stack Drexel course scheduling web app made to help students with scheduling classes using machine learning.
 - 🔹 **[Asteroid Prediction Model](https://github.com/rikhil-amonkar/asteroid-trajectory-predictor)** - Machine learning model trained on a NASA asteroid dataset to predict impact information for possible threats.
 - 🔹 **[Heart Failure Prediction Model](https://github.com/rikhil-amonkar/heart-failure-predictor-ml)** - Interactive webpage with custom trained machine learning model to predict the probability of heart failure.
 

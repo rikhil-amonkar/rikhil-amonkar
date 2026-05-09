@@ -1,6 +1,6 @@
 # Rikhil Amonkar
 
-**Computer Science @ Drexel University** · Data Science Minor · Expected December 2028
+**Computer Science @ Drexel University** · Data Science Minor
 
 ---
 

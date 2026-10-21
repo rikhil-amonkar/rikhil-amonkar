@@ -35,7 +35,7 @@ Philadelphia, PA
 
 ## Projects
 
-**[Quant-Based DSL Backtesting Engine (C++20)](https://github.com/rikhil-amonkar/quant-based-dsl-backtesting-engine)** *(Feb 2026 – Apr 2026)*
+**[Quant-Based DSL Backtesting Engine (C++20)](https://github.com/rikhil-amonkar/quant-dsl-backtesting-engine)** *(Feb 2026 – Apr 2026)*
 Built a C++ lexer/parser for a custom DSL, compiling strategies into structured executable rules for a backtesting engine. Assembled a two-stage event loop with next-open execution, live indicator updates, and realized/unrealized P&L tracking. Benchmarked 4 custom strategies and 6 ticker symbols across 20 years of daily bars, achieving 23K+ events/sec.
 
 **[Custom PyTorch LayerNorm C++ Extension](https://github.com/rikhil-amonkar/pytorch-cpp-layernorm-accelerator)** *(Dec 2025 – Jan 2026)*

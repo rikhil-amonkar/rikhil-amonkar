@@ -12,7 +12,7 @@ Interests outside of work: bodybuilding, making music in FL Studio, and poker.
 
 ## Experience
 
-**Software Developer Co-op, TORQ** — Susquehanna International Group *(Sept 2026 – Mar 2027)*
+**Software Developer Co-op, TORQ** — Susquehanna International Group *(Sept 2026 – Present)*
 Bala Cynwyd, PA
 
 **Machine Learning Engineer Co-op** — Lockheed Martin, Sikorsky *(Oct 2025 – Mar 2026)*
